@@ -1,0 +1,15 @@
+{
+  "name": "dynamo-copy",
+  "version": "1.0.0",
+  "description": "Copy cross account dynamo tables",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaaromy Zierse",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "copy-dynamodb-table": "^2.0.20"
+  }
+}
